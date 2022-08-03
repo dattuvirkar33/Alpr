@@ -8,6 +8,14 @@ read(Patient),get_single_char(_Code),
 hypothesis(Patient,Disease),
 write_list([Patient,', probably has ',Disease,'.']),nl.
 
+////////////////////////
+dattu 
+
+
+
+virkarrrr
+
+////////////////////
 go :-
 write('Sorry, I don''t seem to be able to'),nl,
 write('diagnose the disease.'),nl.
